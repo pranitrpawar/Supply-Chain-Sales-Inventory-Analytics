@@ -1,0 +1,101 @@
+Supplier_ID,Supplier_Name,Country,City,Contact,Lead_Time_Days,Supplier_Rating
+S001,Sunrise Global,USA,Chicago,Priya Rao,17,3.3
+S002,ABC Impex 2,India,Nagpur,Ritu Bose,19,4.8
+S003,Apex Enterprises,Germany,Munich,Vikram Iyer,7,4.5
+S004,National Corp 4,China,Guangzhou,Rajesh Gupta,7,2.8
+S005,National Traders 5,India,Chennai,Vikram Gupta,6,5.0
+S006,Elite Trading Co,Vietnam,Hanoi,Ritu Chopra,18,4.7
+S007,Global Industries 7,USA,Dallas,Divya Kapoor,3,3.2
+S008,United Trading Co,USA,Dallas,Ritu Patel,18,4.6
+S009,Universal Trading Co,India,Delhi,Manoj Sharma,15,2.8
+S010,Reliable Global 10,India,Ahmedabad,Kavita Joshi,15,5.0
+S011,National Traders 11,India,Delhi,Anita Patel,21,4.2
+S012,Elite Impex,Germany,Hamburg,Sneha Kapoor,17,4.1
+S013,Reliable Enterprises 13,China,Beijing,Anita Reddy,22,2.7
+S014,United Traders,USA,Chicago,Manoj Patel,23,4.7
+S015,Prime Corp 15,India,Ahmedabad,Manoj Pillai,27,2.6
+S016,Apex Industries,India,Delhi,Neha Singh,24,3.1
+S017,National Global 17,India,Mumbai,Rahul Verma,16,2.9
+S018,Star Global,India,Mumbai,Neha Singh,16,4.4
+S019,Reliable Industries 19,USA,Chicago,Kavita Patel,9,3.0
+S020,United Impex 20,China,Beijing,Rajesh Rahul,19,4.8
+S021,Elite Industries,USA,New York,Pooja Sharma,6,4.1
+S022,Elite Corp,India,Chennai,Sneha Singh,28,2.6
+S023,Pioneer Industries,Vietnam,Ho Chi Minh City,Divya Sharma,25,2.5
+S024,Reliable Impex 24,Germany,Berlin,Suresh Joshi,6,2.6
+S025,Prime Enterprises 25,USA,Los Angeles,Rajesh Rao,24,4.0
+S026,Metro Traders 26,India,Bengaluru,Arjun Kumar,6,4.5
+S027,National Suppliers 27,India,Jaipur,Divya Reddy,22,3.1
+S028,Reliable Impex 28,India,Hyderabad,Ritu Mehta,5,4.6
+S029,Prime Impex 29,India,Hyderabad,Pooja Bose,16,2.6
+S030,Global Trading Co 30,China,Shenzhen,Arjun Bose,20,4.5
+S031,Continental Impex,China,Shanghai,Rajesh Rahul,22,4.8
+S032,United Impex 32,Vietnam,Ho Chi Minh City,Kavita Singh,14,4.4
+S033,Global Corp,India,Mumbai,Manoj Gupta,27,4.2
+S034,Metro Industries 34,India,Ahmedabad,Sneha Gupta,23,4.6
+S035,ABC Global,India,Chennai,Sanjay Joshi,8,2.6
+S036,Sunrise Trading Co,India,Ahmedabad,Ritu Das,21,3.0
+S037,Star Industries,India,Kolkata,Vikram Rahul,22,2.8
+S038,Pioneer Traders,India,Chennai,Amit Kumar,12,3.8
+S039,Bharat Trading Co,India,Bengaluru,Manoj Mehta,22,4.4
+S040,Sunrise Industries,China,Guangzhou,Manoj Patel,27,4.1
+S041,ABC Impex 41,India,Pune,Priya Kapoor,25,4.6
+S042,Reliable Enterprises 42,USA,Los Angeles,Priya Sharma,23,2.9
+S043,ABC Traders,China,Shenzhen,Suresh Pillai,20,4.3
+S044,Global Global,India,Kolkata,Pooja Sharma,10,3.0
+S045,Pioneer Enterprises,USA,Los Angeles,Divya Kapoor,24,3.2
+S046,Bharat Enterprises,USA,New York,Arjun Pillai,12,4.3
+S047,Sunrise Corp 47,India,Ahmedabad,Sneha Shah,17,5.0
+S048,Universal Global,India,Chennai,Anita Kapoor,11,4.0
+S049,ABC Enterprises,China,Beijing,Neha Malhotra,11,2.6
+S050,National Industries,India,Mumbai,Sanjay Nair,7,4.0
+S051,Reliable Global 51,India,Pune,Neha Malhotra,28,2.6
+S052,National Impex 52,India,Chennai,Pooja Patel,6,4.7
+S053,Metro Corp,USA,New York,Divya Mehta,5,4.3
+S054,Star Enterprises 54,China,Shanghai,Anita Mehta,28,2.9
+S055,Reliable Traders 55,China,Guangzhou,Ritu Bose,17,2.7
+S056,Prime Enterprises 56,USA,New York,Divya Iyer,14,3.0
+S057,National Enterprises,India,Kolkata,Arjun Kumar,22,5.0
+S058,ABC Trading Co 58,India,Pune,Sanjay Nair,13,3.6
+S059,Reliable Traders 59,India,Pune,Sneha Verma,6,4.5
+S060,National Corp 60,India,Hyderabad,Amit Patel,22,4.1
+S061,Pioneer Trading Co,China,Beijing,Suresh Iyer,7,3.9
+S062,Bharat Corp 62,India,Pune,Rahul Das,17,2.9
+S063,Star Enterprises 63,India,Delhi,Neha Gupta,28,4.9
+S064,Continental Global,USA,Dallas,Anita Kumar,28,3.3
+S065,ABC Trading Co 65,China,Beijing,Rajesh Kumar,12,3.9
+S066,Global Trading Co 66,India,Hyderabad,Pooja Reddy,24,4.2
+S067,Continental Enterprises,India,Chennai,Suresh Kumar,19,4.1
+S068,Star Traders,India,Bengaluru,Rahul Rao,15,4.9
+S069,Apex Impex,India,Kolkata,Sneha Verma,6,2.9
+S070,Global Suppliers 70,India,Hyderabad,Arjun Pillai,13,3.8
+S071,Reliable Industries 71,India,Delhi,Sanjay Pillai,20,3.5
+S072,Global Suppliers 72,India,Mumbai,Divya Iyer,29,3.7
+S073,Metro Trading Co,Germany,Berlin,Arjun Reddy,3,2.8
+S074,National Impex 74,India,Nagpur,Kavita Mehta,22,2.8
+S075,Metro Industries 75,India,Chennai,Ritu Kapoor,25,3.2
+S076,Reliable Impex 76,India,Chennai,Kavita Rao,28,3.3
+S077,Metro Traders 77,India,Chennai,Sneha Kapoor,14,3.6
+S078,Apex Corp,China,Beijing,Rajesh Mehta,6,4.0
+S079,Prime Trading Co,India,Mumbai,Arjun Nair,10,4.1
+S080,Continental Traders 80,USA,New York,Priya Verma,25,3.5
+S081,Universal Enterprises,China,Shanghai,Rahul Chopra,26,3.5
+S082,Bharat Suppliers,India,Chennai,Amit Gupta,20,3.0
+S083,ABC Impex 83,USA,Los Angeles,Neha Rao,6,4.0
+S084,Prime Corp 84,India,Chennai,Rajesh Bose,6,3.3
+S085,Prime Impex 85,India,Chennai,Manoj Patel,15,2.6
+S086,Bharat Global,India,Nagpur,Ritu Nair,18,3.5
+S087,Star Suppliers,China,Shenzhen,Sanjay Sharma,3,3.7
+S088,Elite Global,India,Hyderabad,Neha Chopra,21,3.1
+S089,Continental Traders 89,India,Hyderabad,Neha Sharma,17,3.9
+S090,Elite Traders,India,Chennai,Rajesh Pillai,3,3.9
+S091,National Global 91,India,Jaipur,Pooja Patel,5,4.3
+S092,United Global,China,Shanghai,Ritu Shah,15,4.1
+S093,Star Enterprises 93,India,Nagpur,Rahul Kapoor,22,4.1
+S094,Sunrise Corp 94,India,Bengaluru,Suresh Joshi,25,3.3
+S095,Bharat Corp 95,India,Hyderabad,Kavita Malhotra,14,4.5
+S096,Pioneer Global,China,Guangzhou,Ritu Malhotra,10,3.9
+S097,Bharat Corp 97,India,Jaipur,Manoj Pillai,29,3.6
+S098,National Suppliers 98,India,Chennai,Priya Verma,15,4.1
+S099,Global Industries 99,India,Delhi,Pooja Joshi,11,3.4
+S100,Pioneer Suppliers,Vietnam,Hanoi,Amit Sharma,14,3.8
