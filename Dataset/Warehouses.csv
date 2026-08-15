@@ -1,0 +1,21 @@
+Warehouse_ID,Warehouse_Name,City,State,Capacity,Manager
+W001,New Delhi Warehouse,New Delhi,Delhi,69681,Pooja Chopra
+W002,Pune Warehouse,Pune,Maharashtra,65584,Anita Rao
+W003,Hyderabad Warehouse,Hyderabad,Telangana,54085,Vikram Singh
+W004,Kolkata Warehouse,Kolkata,West Bengal,76454,Priya Singh
+W005,New Delhi Warehouse 2,New Delhi,Delhi,15999,Anita Reddy
+W006,Hyderabad Warehouse 2,Hyderabad,Telangana,20074,Ritu Chopra
+W007,Bengaluru Warehouse,Bengaluru,Karnataka,88081,Rahul Reddy
+W008,Surat Warehouse,Surat,Gujarat,51935,Manoj Malhotra
+W009,Kolkata Warehouse 2,Kolkata,West Bengal,16183,Ritu Rao
+W010,Chennai Warehouse,Chennai,Tamil Nadu,51420,Rajesh Chopra
+W011,Hyderabad Warehouse 3,Hyderabad,Telangana,52459,Neha Sharma
+W012,Hyderabad Warehouse 4,Hyderabad,Telangana,22277,Suresh Das
+W013,Mysuru Warehouse,Mysuru,Karnataka,29764,Rajesh Singh
+W014,New Delhi Warehouse 3,New Delhi,Delhi,55860,Arjun Sharma
+W015,Kolkata Warehouse 3,Kolkata,West Bengal,77608,Manoj Verma
+W016,Jaipur Warehouse,Jaipur,Rajasthan,69262,Rajesh Nair
+W017,Hyderabad Warehouse 5,Hyderabad,Telangana,70517,Suresh Chopra
+W018,Bengaluru Warehouse 2,Bengaluru,Karnataka,73297,Amit Pillai
+W019,Jaipur Warehouse 2,Jaipur,Rajasthan,29537,Anita Chopra
+W020,New Delhi Warehouse 4,New Delhi,Delhi,21548,Amit Sharma

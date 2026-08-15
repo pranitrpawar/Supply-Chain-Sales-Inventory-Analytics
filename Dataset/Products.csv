@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Supplier_ID,Unit_Cost,Selling_Price
+P1001,Clip Folder 500,Stationery,Files,Parker,S020,37170,47360
+P1002,Exercise Bike 116,Sports,Fitness,Cosco,S004,49761,65740
+P1003,Microwave 705,Home & Kitchen,Appliances,Pigeon,S063,38429,44200
+P1004,Monopoly 509,Toys,Board Games,Mattel,S069,35666,47920
+P1005,Bunk Bed 793,Furniture,Bed,Durian,S078,28068,38330
+P1006,Puzzle Set 655,Toys,Educational,Mattel,S096,14729,19440
+P1007,Crayons 807,Stationery,Art Supplies,Parker,S050,16881,21930
+P1008,Pressure Cooker 513,Home & Kitchen,Cookware,Milton,S083,44753,62340
+P1009,Formal Shoes 107,Sports,Footwear,Adidas,S072,4235,5740
+P1010,Broom 217,Home & Kitchen,Cleaning,Bajaj,S028,5114,6310
+P1011,Kids Shorts 512,Apparel,Kidswear,Nike,S085,23830,34260
+P1012,Scissors 457,Stationery,Office Supplies,Classmate,S006,46476,63310
+P1013,Recliner 814,Furniture,Chair,Urban Ladder,S060,39439,57040
+P1014,Belt 470,Apparel,Accessories,H&M,S095,35419,51050
+P1015,Vacuum Cleaner 873,Home & Kitchen,Cleaning,Philips,S066,32071,45720
+P1016,Sticky Notes 268,Stationery,Office Supplies,Camlin,S094,6689,9210
+P1017,Butter 446,Groceries,Dairy,Nestle,S006,19941,26580
+P1018,Rice 779,Groceries,Staples,Parle,S054,4816,5790
+P1019,Camera Bag 211,Electronics,Camera,HP,S079,45501,59740
+P1020,Speaker 388,Electronics,Audio,HP,S065,45062,62170
+P1021,Feature Phone 775,Electronics,Mobile,Lenovo,S089,15522,20280
+P1022,Action Camera 629,Electronics,Camera,Sony,S047,17611,24840
+P1023,A4 Sheets 799,Stationery,Paper,Faber-Castell,S069,19081,22570
+P1024,Water Colors 563,Stationery,Art Supplies,Parker,S042,53363,67470
+P1025,Ball Pen 872,Stationery,Writing,Parker,S088,29337,38190
+P1026,Microphone 888,Electronics,Audio,HP,S012,45736,58530
+P1027,Lens 976,Electronics,Camera,Lenovo,S026,26957,31880
+P1028,Watch 209,Apparel,Accessories,Puma,S010,41906,50120
+P1029,Curtains 631,Home & Kitchen,Decor,Prestige,S071,31723,44450
+P1030,Women's Top 202,Apparel,Womenswear,Adidas,S024,16752,21700
+P1031,Cheese 305,Groceries,Dairy,ITC,S032,52584,61240
+P1032,Recliner 369,Furniture,Chair,Ikea,S084,42551,49140
+P1033,Yoga Mat 680,Sports,Fitness,Yonex,S037,46171,59650
+P1034,Sports Shoes 487,Apparel,Footwear,H&M,S015,56891,68230
+P1035,Belt 877,Electronics,Accessories,Dell,S003,14963,20370
+P1036,Sunglasses 368,Sports,Accessories,Puma,S023,5539,7690
+P1037,Chess Set 654,Toys,Board Games,Lego,S092,34957,42590
+P1038,Mouse 786,Electronics,Computer,Apple,S055,19603,26030
+P1039,Frozen Peas 981,Groceries,Frozen,Tata,S100,26174,31310
+P1040,Crayons 320,Stationery,Art Supplies,Reynolds,S022,14118,17520
+P1041,Backpack 759,Sports,Outdoor,Nivia,S036,23938,33910
+P1042,Box File 176,Stationery,Files,Camlin,S017,23625,31030
+P1043,Wheat Flour 588,Groceries,Staples,Britannia,S040,21065,29820
+P1044,Sneakers 472,Apparel,Footwear,Adidas,S057,44552,54250
+P1045,Tent 961,Sports,Outdoor,Puma,S081,35579,44440
+P1046,Three Seater Sofa 795,Furniture,Sofa,Godrej,S037,28480,36780
+P1047,Cabinet 933,Furniture,Storage,Godrej,S078,6807,8810
+P1048,Curtains 864,Home & Kitchen,Decor,Bajaj,S063,34265,49660
+P1049,Sneakers 469,Sports,Footwear,Adidas,S030,10542,12490
+P1050,DSLR Camera 759,Electronics,Camera,Lenovo,S092,18883,26540
+P1051,Pressure Cooker 127,Home & Kitchen,Cookware,Prestige,S044,24923,35120
+P1052,Women's Dress 601,Apparel,Womenswear,Puma,S016,8520,11210
+P1053,Microwave 142,Home & Kitchen,Appliances,Pigeon,S097,23399,29320
+P1054,3D Puzzle 751,Toys,Puzzles,Hasbro,S092,16052,20960
+P1055,Camera Bag 969,Electronics,Camera,HP,S005,50993,63120
+P1056,Robot Toy 712,Toys,Action Figures,Lego,S091,51587,71690
+P1057,Rice 855,Groceries,Staples,Parle,S095,323,420
+P1058,Notebook 310,Stationery,Paper,Reynolds,S083,36164,51630
+P1059,Chocolate 993,Groceries,Snacks,Amul,S026,38451,51400
+P1060,Kids T-Shirt 595,Apparel,Kidswear,Zara,S064,22710,29620
+P1061,Document Folder 706,Stationery,Files,Faber-Castell,S054,28173,38410
+P1062,Cricket Bat 792,Sports,Team Sports,Yonex,S063,47404,61680
+P1063,Recliner 674,Furniture,Chair,Durian,S062,22708,32280
+P1064,Sports Shoes 385,Sports,Footwear,Cosco,S064,3914,4720
+P1065,Water Colors 649,Stationery,Art Supplies,Parker,S052,22381,32270
+P1066,Cheese 687,Groceries,Dairy,Britannia,S070,15270,21280
+P1067,Camping Chair 870,Toys,Outdoor,Funskool,S053,22994,32380
+P1068,Watch 532,Sports,Accessories,Nike,S002,13844,17930
+P1069,Women's Jeans 551,Apparel,Womenswear,Puma,S004,9034,12660
+P1070,Earbuds 552,Electronics,Audio,Samsung,S096,59122,73430
+P1071,Dumbbells 202,Sports,Fitness,Puma,S091,7775,10720
+P1072,Double Bed 180,Furniture,Bed,Nilkamal,S059,42380,50520
+P1073,Drawing Book 118,Stationery,Art Supplies,Reynolds,S018,43068,53500
+P1074,Microwave 698,Home & Kitchen,Appliances,Philips,S079,37086,47610
+P1075,Sugar 476,Groceries,Staples,Nestle,S015,54691,68180
+P1076,Cabinet 878,Furniture,Storage,Godrej,S038,348,440
+P1077,Football 731,Sports,Team Sports,Nivia,S033,18132,25310
+P1078,Wardrobe 227,Furniture,Storage,Durian,S002,11099,13620
+P1079,Chocolate 189,Groceries,Snacks,Parle,S081,34636,47580
+P1080,Pencil 429,Stationery,Writing,Faber-Castell,S051,38150,44720
+P1081,Jigsaw Puzzle 927,Toys,Puzzles,Hot Wheels,S032,53879,74340
+P1082,Learning Kit 143,Toys,Educational,Hasbro,S051,22814,31660
+P1083,Superhero Figure 268,Toys,Action Figures,Mattel,S001,14192,18030
+P1084,Broom 126,Home & Kitchen,Cleaning,Pigeon,S044,55460,75800
+P1085,Bar Stool 471,Furniture,Chair,Urban Ladder,S052,40395,57540
+P1086,Chart Paper 989,Stationery,Paper,Faber-Castell,S034,45895,63800
+P1087,Notebook 714,Stationery,Paper,Camlin,S084,26726,33870
+P1088,Camping Chair 543,Toys,Outdoor,Mattel,S025,26870,34800
+P1089,Sleeping Bag 229,Sports,Outdoor,Adidas,S014,23373,32340
+P1090,Office Chair 419,Furniture,Chair,Ikea,S053,44983,55680
+P1091,Wardrobe 571,Home & Kitchen,Storage,Prestige,S089,12676,17630
+P1092,Chocolate 347,Groceries,Snacks,Nestle,S038,58525,73060
+P1093,Document Folder 733,Stationery,Files,Faber-Castell,S005,10596,14750
+P1094,Coffee 981,Groceries,Beverages,Britannia,S097,27685,32560
+P1095,Men's Shirt 285,Apparel,Menswear,Zara,S045,18911,22000
+P1096,DSLR Camera 326,Electronics,Camera,Apple,S018,38569,55900
+P1097,Document Folder 213,Stationery,Files,Classmate,S062,40857,57640
+P1098,Document Folder 752,Stationery,Files,Classmate,S032,55123,77990
+P1099,Action Camera 515,Electronics,Camera,LG,S094,47363,67980
+P1100,Cookies 355,Groceries,Snacks,ITC,S030,14958,19170
+P1101,Frozen Nuggets 297,Groceries,Frozen,Parle,S056,12439,15380
+P1102,Cooking Oil 163,Groceries,Staples,Nestle,S055,53199,63250
+P1103,Puzzle Set 528,Toys,Educational,Lego,S025,29297,38100
+P1104,Bar Stool 714,Furniture,Chair,Durian,S050,5897,7170
+P1105,Sunglasses 311,Apparel,Accessories,Adidas,S011,49507,70830
+P1106,Office Desk 101,Furniture,Table,Godrej,S065,38924,44810
+P1107,Double Bed 525,Furniture,Bed,Durian,S076,1582,1890
+P1108,Flash Cards 707,Toys,Educational,Hasbro,S096,46981,57500
+P1109,Superhero Figure 410,Toys,Action Figures,Mattel,S033,36462,44110
+P1110,Power Bank 325,Electronics,Mobile,Samsung,S029,36895,44930
+P1111,Sleeping Bag 238,Sports,Outdoor,Adidas,S055,51902,69900
+P1112,Mattress 770,Furniture,Bed,Urban Ladder,S070,29757,37140
+P1113,Sofa Cum Bed 874,Furniture,Sofa,Urban Ladder,S100,27702,36970
+P1114,Sunglasses 792,Apparel,Accessories,Puma,S003,37059,52520
+P1115,Bunk Bed 565,Furniture,Bed,Durian,S024,11907,15850
+P1116,Cookies 750,Groceries,Snacks,ITC,S027,9142,12420
+P1117,3D Puzzle 456,Toys,Puzzles,Funskool,S026,50634,63780
+P1118,Vase 122,Home & Kitchen,Decor,Milton,S047,12973,15540
+P1119,Cricket Bat 430,Sports,Team Sports,Cosco,S088,30285,37740
+P1120,Sugar 732,Groceries,Staples,Nestle,S004,16230,23360
+P1121,Action Camera 681,Electronics,Camera,HP,S082,13865,18530
+P1122,Cap 990,Electronics,Accessories,Sony,S062,35886,44260
+P1123,Kids Frock 996,Apparel,Kidswear,H&M,S062,48151,61890
+P1124,Mattress 318,Furniture,Bed,Ikea,S068,26541,37170
+P1125,A4 Sheets 108,Stationery,Paper,Camlin,S012,8366,11300
+P1126,Scissors 346,Stationery,Office Supplies,Parker,S075,14706,19390
+P1127,Stapler 887,Stationery,Office Supplies,Camlin,S025,9916,14040
+P1128,Sneakers 831,Sports,Footwear,Adidas,S052,52974,71610
+P1129,Frying Pan 188,Home & Kitchen,Cookware,Prestige,S068,19205,25790
+P1130,Sleeping Bag 244,Sports,Outdoor,Puma,S061,22466,27110
+P1131,Pulses 606,Groceries,Staples,Britannia,S033,4308,5090
+P1132,Watch 693,Sports,Accessories,Cosco,S040,26789,38560
+P1133,Water Colors 983,Stationery,Art Supplies,Parker,S048,54839,72920
+P1134,Sticky Notes 778,Stationery,Office Supplies,Parker,S005,24611,31370
+P1135,Wall Clock 290,Home & Kitchen,Decor,Philips,S073,39092,51860
+P1136,DSLR Camera 133,Electronics,Camera,Samsung,S010,10957,12800
+P1137,Basketball 669,Sports,Team Sports,Puma,S046,8619,12040
+P1138,Men's Shirt 597,Apparel,Menswear,Zara,S066,43911,53350
+P1139,Football 928,Sports,Team Sports,Adidas,S009,3990,5550
+P1140,Curtains 617,Home & Kitchen,Decor,Bajaj,S100,26935,35290
+P1141,Tent 550,Toys,Outdoor,Lego,S038,19036,23470
+P1142,Cap 372,Apparel,Accessories,Nike,S002,1024,1190
+P1143,Rubik's Cube 177,Toys,Puzzles,Mattel,S066,31895,44490
+P1144,A4 Sheets 887,Stationery,Paper,Camlin,S056,57842,69580
+P1145,Women's Dress 842,Apparel,Womenswear,Adidas,S065,4195,4890
+P1146,Butter 246,Groceries,Dairy,Britannia,S076,48955,67400
+P1147,Frying Pan 732,Home & Kitchen,Cookware,Pigeon,S048,32373,40630
+P1148,Ring Binder 427,Stationery,Files,Parker,S083,43427,55010
+P1149,Wallet 492,Sports,Accessories,Cosco,S038,5838,7150
+P1150,Document Folder 862,Stationery,Files,Faber-Castell,S055,52152,73420
+P1151,Women's Jeans 856,Apparel,Womenswear,Adidas,S016,734,910
+P1152,Microwave 271,Home & Kitchen,Appliances,Pigeon,S062,54413,66010
+P1153,Frozen Peas 376,Groceries,Frozen,ITC,S027,39485,49070
+P1154,Ludo 838,Toys,Board Games,Funskool,S070,20282,24560
+P1155,Sneakers 924,Apparel,Footwear,Zara,S081,475,590
+P1156,Vase 171,Home & Kitchen,Decor,Milton,S086,36676,43090
+P1157,Microphone 849,Electronics,Audio,HP,S093,5291,6340
+P1158,Notebook 539,Stationery,Paper,Faber-Castell,S013,36548,46600
+P1159,Ice Cream 630,Groceries,Frozen,Britannia,S014,46400,65600
+P1160,Women's Top 167,Apparel,Womenswear,Nike,S093,16074,18760
+P1161,Wardrobe 711,Home & Kitchen,Storage,Prestige,S039,14361,17430
+P1162,Chocolate 709,Groceries,Snacks,Amul,S003,13356,19000
+P1163,Sketch Pens 695,Stationery,Art Supplies,Parker,S029,13529,19170
+P1164,Wardrobe 810,Home & Kitchen,Storage,Pigeon,S084,6878,9310
+P1165,Bookshelf 950,Home & Kitchen,Storage,Philips,S036,15019,18360
+P1166,Watch 864,Electronics,Accessories,LG,S008,39575,50500
+P1167,Feature Phone 769,Electronics,Mobile,LG,S073,18185,22070
+P1168,Frozen Peas 982,Groceries,Frozen,ITC,S020,46866,55700
+P1169,Rubik's Cube 706,Toys,Puzzles,Funskool,S036,49166,62150
+P1170,3D Puzzle 704,Toys,Puzzles,Hot Wheels,S001,45669,60410
+P1171,Yoga Mat 587,Sports,Fitness,Adidas,S061,32394,40750
+P1172,Sneakers 791,Sports,Footwear,Yonex,S045,19010,25350
+P1173,Ice Cream 164,Groceries,Frozen,Tata,S087,55797,69130
+P1174,Bunk Bed 554,Furniture,Bed,Ikea,S034,12355,15490
+P1175,Smartphone 482,Electronics,Mobile,LG,S021,27897,38700
+P1176,Sneakers 920,Apparel,Footwear,Zara,S017,27244,38510
+P1177,Men's Shirt 165,Apparel,Menswear,H&M,S021,44748,55780
+P1178,Shoe Rack 678,Furniture,Storage,Nilkamal,S046,32831,43380
+P1179,Sneakers 265,Apparel,Footwear,Zara,S009,47980,59180
+P1180,Headphones 894,Electronics,Audio,Sony,S041,55149,64300
+P1181,Detergent 865,Home & Kitchen,Cleaning,Bajaj,S086,23467,32180
+P1182,Superhero Figure 311,Toys,Action Figures,Hot Wheels,S077,52495,63060
+P1183,Sneakers 883,Sports,Footwear,Nivia,S064,10222,13060
+P1184,Cooking Oil 546,Groceries,Staples,ITC,S090,54967,71240
+P1185,Pulses 972,Groceries,Staples,Nestle,S079,10720,12920
+P1186,Women's Kurti 756,Apparel,Womenswear,Adidas,S066,51023,60120
+P1187,Study Table 130,Furniture,Table,Nilkamal,S087,23445,29410
+P1188,Microwave 282,Home & Kitchen,Appliances,Milton,S013,57876,83090
+P1189,Vase 462,Home & Kitchen,Decor,Milton,S082,7795,10400
+P1190,Microphone 289,Electronics,Audio,Samsung,S030,27956,35350
+P1191,Cookies 219,Groceries,Snacks,Tata,S074,54117,62870
+P1192,Kids Jacket 979,Apparel,Kidswear,Zara,S092,2896,3850
+P1193,Office Desk 881,Furniture,Table,Godrej,S050,15937,18770
+P1194,Camping Chair 490,Sports,Outdoor,Nivia,S009,5059,6640
+P1195,Mop 293,Home & Kitchen,Cleaning,Bajaj,S038,19310,26560
+P1196,Wallet 263,Sports,Accessories,Yonex,S041,23447,29940
+P1197,Camping Chair 923,Sports,Outdoor,Adidas,S094,37152,46060
+P1198,Rubik's Cube 397,Toys,Puzzles,Lego,S095,15498,18040
+P1199,Sketch Pens 111,Stationery,Art Supplies,Faber-Castell,S057,9563,11070
+P1200,Frying Pan 457,Home & Kitchen,Cookware,Bajaj,S096,10237,13090
+P1201,Action Set 508,Toys,Action Figures,Hot Wheels,S044,56307,79670
+P1202,Cold Drink 660,Groceries,Beverages,Parle,S042,57194,69960
+P1203,Puzzle Set 404,Toys,Educational,Hasbro,S084,13323,17620
+P1204,Scissors 929,Stationery,Office Supplies,Parker,S067,11765,15950
+P1205,Basketball 678,Sports,Team Sports,Puma,S053,3299,3850
+P1206,Tent 986,Toys,Outdoor,Hot Wheels,S046,57564,68840
+P1207,Frying Pan 429,Home & Kitchen,Cookware,Prestige,S071,42383,52950
+P1208,Sunglasses 685,Sports,Accessories,Puma,S076,45662,61690
+P1209,Women's Jeans 428,Apparel,Womenswear,Zara,S050,17469,22390
+P1210,Learning Kit 729,Toys,Educational,Hasbro,S004,38474,52720
+P1211,Broom 770,Home & Kitchen,Cleaning,Bajaj,S011,3635,5130
+P1212,Chart Paper 389,Stationery,Paper,Camlin,S015,40577,55900
+P1213,Cooking Oil 942,Groceries,Staples,Parle,S047,34800,50380
+P1214,Gel Pen 870,Stationery,Writing,Faber-Castell,S062,19921,27420
+P1215,Printer 904,Electronics,Computer,Lenovo,S081,42642,59940
+P1216,Feature Phone 295,Electronics,Mobile,LG,S024,38803,54310
+P1217,Wall Clock 745,Home & Kitchen,Decor,Pigeon,S079,26367,36100
+P1218,Wallet 195,Sports,Accessories,Yonex,S067,11242,15630
+P1219,Scissors 194,Stationery,Office Supplies,Parker,S006,1462,2090
+P1220,Energy Drink 974,Groceries,Beverages,Tata,S036,56265,72730
+P1221,Cap 237,Sports,Accessories,Nike,S031,16917,22690
+P1222,Pressure Cooker 876,Home & Kitchen,Cookware,Pigeon,S089,18142,23670
+P1223,Building Blocks 487,Toys,Educational,Lego,S093,40879,57450
+P1224,Cricket Bat 372,Sports,Team Sports,Yonex,S082,15348,19640
+P1225,Yogurt 166,Groceries,Dairy,Britannia,S053,22576,31510
+P1226,Backpack 706,Toys,Outdoor,Funskool,S050,42684,59320
+P1227,Sunglasses 748,Electronics,Accessories,Lenovo,S032,35742,51420
+P1228,3D Puzzle 519,Toys,Puzzles,Hot Wheels,S078,39404,48260
+P1229,Office Desk 828,Furniture,Table,Ikea,S009,330,450
+P1230,Cap 390,Apparel,Accessories,Puma,S028,27105,37330
+P1231,Notebook 595,Stationery,Paper,Faber-Castell,S014,28542,40840
+P1232,Exercise Bike 357,Sports,Fitness,Nike,S050,37965,53990
+P1233,Rubik's Cube 623,Toys,Puzzles,Lego,S030,9129,12070
+P1234,Yoga Mat 222,Sports,Fitness,Adidas,S020,9611,12720
+P1235,Basketball 528,Sports,Team Sports,Cosco,S038,45757,54920
+P1236,Sneakers 593,Apparel,Footwear,H&M,S087,40416,58300
+P1237,Charger 600,Electronics,Mobile,Asus,S056,48680,59710
+P1238,Feature Phone 501,Electronics,Mobile,HP,S083,16273,22250
+P1239,Kids Frock 678,Apparel,Kidswear,Levis,S092,59856,83120
+P1240,Sunglasses 560,Electronics,Accessories,LG,S091,16406,21040
+P1241,Electric Kettle 354,Home & Kitchen,Appliances,Pigeon,S036,39075,47410
+P1242,Sticky Pad 293,Stationery,Paper,Camlin,S088,9772,11790
+P1243,Ludo 682,Toys,Board Games,Funskool,S091,55114,77540
+P1244,Juice 943,Groceries,Beverages,Parle,S096,19976,26030
+P1245,Backpack 777,Toys,Outdoor,Lego,S036,48158,56680
+P1246,Jigsaw Puzzle 674,Toys,Puzzles,Lego,S023,19908,27180
+P1247,Sketch Pens 928,Stationery,Art Supplies,Parker,S059,47461,58140
+P1248,Energy Drink 908,Groceries,Beverages,Amul,S094,27278,38540
+P1249,Men's Shirt 555,Apparel,Menswear,Puma,S091,3796,4720
+P1250,Chess Set 198,Toys,Board Games,Mattel,S058,11465,13870
+P1251,Wardrobe 670,Furniture,Storage,Urban Ladder,S015,41022,48220
+P1252,Cheese 659,Groceries,Dairy,ITC,S043,11620,15150
+P1253,Smartphone 349,Electronics,Mobile,Asus,S072,16555,21280
+P1254,Drawing Book 863,Stationery,Art Supplies,Faber-Castell,S057,32527,44740
+P1255,Tent 882,Sports,Outdoor,Puma,S035,15220,19620
+P1256,Camera Bag 397,Electronics,Camera,Sony,S035,7776,9740
+P1257,Single Bed 528,Furniture,Bed,Ikea,S006,37476,46040
+P1258,Mop 275,Home & Kitchen,Cleaning,Philips,S029,41349,51000
+P1259,Frying Pan 260,Home & Kitchen,Cookware,Philips,S067,43996,62840
+P1260,Document Folder 338,Stationery,Files,Faber-Castell,S025,56639,67940
+P1261,Men's T-Shirt 428,Apparel,Menswear,Adidas,S100,7513,10870
+P1262,3D Puzzle 345,Toys,Puzzles,Funskool,S009,25636,32000
+P1263,Juice 236,Groceries,Beverages,ITC,S059,14078,16560
+P1264,Crayons 502,Stationery,Art Supplies,Classmate,S050,54071,66220
+P1265,Office Chair 660,Furniture,Chair,Ikea,S084,32410,37840
+P1266,Monitor 393,Electronics,Computer,Dell,S089,5944,8240
+P1267,DSLR Camera 579,Electronics,Camera,Asus,S055,41544,54160
+P1268,Sneakers 343,Apparel,Footwear,Nike,S064,2625,3280
+P1269,Learning Kit 732,Toys,Educational,Funskool,S070,16486,22230
+P1270,Sunglasses 683,Electronics,Accessories,LG,S053,43296,57980
+P1271,Women's Jeans 963,Apparel,Womenswear,Levis,S019,30385,43510
+P1272,Smartphone 147,Electronics,Mobile,LG,S043,45673,65700
+P1273,Superhero Figure 866,Toys,Action Figures,Lego,S025,34292,46440
+P1274,Cricket Bat 405,Sports,Team Sports,Cosco,S047,50591,70590
+P1275,Gel Pen 159,Stationery,Writing,Parker,S062,33775,46870
+P1276,Cricket Bat 720,Sports,Team Sports,Yonex,S021,3456,4480
+P1277,Camping Chair 254,Sports,Outdoor,Nivia,S025,4322,5880
+P1278,Gel Pen 258,Stationery,Writing,Reynolds,S083,46625,54710
+P1279,Charger 980,Electronics,Mobile,Lenovo,S038,2364,3260
+P1280,A4 Sheets 298,Stationery,Paper,Reynolds,S020,22623,32540
+P1281,Sneakers 591,Sports,Footwear,Adidas,S072,1015,1190
+P1282,Backpack 280,Sports,Outdoor,Nivia,S072,18235,25540
+P1283,Chocolate 211,Groceries,Snacks,ITC,S083,35728,51090
+P1284,Notebook 100,Stationery,Paper,Classmate,S076,10422,12690
+P1285,Cooking Oil 114,Groceries,Staples,ITC,S100,27992,36600
+P1286,Watch 525,Electronics,Accessories,LG,S058,59761,85360
+P1287,3D Puzzle 490,Toys,Puzzles,Hasbro,S029,4276,6150
+P1288,Recliner Sofa 135,Furniture,Sofa,Urban Ladder,S087,3866,4590
+P1289,Watch 414,Electronics,Accessories,LG,S027,16311,20470
+P1290,Curtains 345,Home & Kitchen,Decor,Prestige,S030,49629,67470
+P1291,Office Desk 613,Furniture,Table,Urban Ladder,S083,24377,29650
+P1292,Stapler 994,Stationery,Office Supplies,Camlin,S089,38387,47890
+P1293,Chocolate 721,Groceries,Snacks,ITC,S034,2080,2410
+P1294,Tripod 925,Electronics,Camera,Apple,S073,44118,52770
+P1295,Sleeping Bag 272,Toys,Outdoor,Hot Wheels,S093,4092,5400
+P1296,Wardrobe 293,Home & Kitchen,Storage,Pigeon,S080,42717,57490
+P1297,Men's T-Shirt 774,Apparel,Menswear,Levis,S001,8917,11990
+P1298,Football 378,Sports,Team Sports,Adidas,S067,51513,71270
+P1299,Toaster 863,Home & Kitchen,Appliances,Milton,S017,17803,22690
+P1300,Wallet 516,Electronics,Accessories,Sony,S085,11068,13640
+P1301,Scissors 280,Stationery,Office Supplies,Parker,S007,20235,23360
+P1302,Cold Drink 859,Groceries,Beverages,Amul,S100,99,120
+P1303,Hockey Stick 594,Sports,Team Sports,Nike,S018,9949,12370
+P1304,Jigsaw Puzzle 821,Toys,Puzzles,Lego,S043,35931,43240
+P1305,Cabinet 506,Home & Kitchen,Storage,Bajaj,S024,18081,20900
+P1306,Yoga Mat 213,Sports,Fitness,Nivia,S082,21263,25460
+P1307,Women's Jeans 712,Apparel,Womenswear,Nike,S040,48443,65390
+P1308,Bar Stool 211,Furniture,Chair,Nilkamal,S075,7471,10000
+P1309,Chips 696,Groceries,Snacks,Britannia,S007,23783,34030
+P1310,Sketch Pens 474,Stationery,Art Supplies,Classmate,S046,11209,15570
+P1311,Electric Kettle 811,Home & Kitchen,Appliances,Pigeon,S092,28996,38280
+P1312,Men's Jeans 882,Apparel,Menswear,Puma,S093,19938,23750
+P1313,Drawing Book 466,Stationery,Art Supplies,Parker,S021,2821,3720
+P1314,Marker 892,Stationery,Writing,Camlin,S040,4260,4980
+P1315,Action Set 199,Toys,Action Figures,Hot Wheels,S041,51147,65430
+P1316,Men's Jeans 196,Apparel,Menswear,Levis,S057,3461,4390
+P1317,Treadmill 993,Sports,Fitness,Nivia,S054,46973,60050
+P1318,Curtains 616,Home & Kitchen,Decor,Milton,S011,54965,67820
+P1319,Ice Cream 505,Groceries,Frozen,Britannia,S077,27975,37930
+P1320,Rice 239,Groceries,Staples,Amul,S023,18760,26310
+P1321,Printer 359,Electronics,Computer,Asus,S032,46590,64320
+P1322,Men's T-Shirt 716,Apparel,Menswear,Puma,S085,58934,78870
+P1323,Electric Kettle 838,Home & Kitchen,Appliances,Milton,S069,7269,9530
+P1324,Sleeping Bag 923,Toys,Outdoor,Lego,S040,57863,67080
+P1325,Sticky Pad 466,Stationery,Paper,Parker,S092,56627,77400
+P1326,Two Seater Sofa 508,Furniture,Sofa,Ikea,S040,8597,11290
+P1327,Backpack 246,Sports,Outdoor,Yonex,S057,3331,4100
+P1328,Mouse 174,Electronics,Computer,Samsung,S025,42909,53570
+P1329,Yoga Mat 493,Sports,Fitness,Cosco,S019,4706,6730
+P1330,Men's Jeans 620,Apparel,Menswear,Puma,S050,36068,48230
+P1331,Tea 193,Groceries,Beverages,Britannia,S057,3932,5080
+P1332,Cap 467,Sports,Accessories,Cosco,S081,41454,55390
+P1333,Namkeen 676,Groceries,Snacks,Britannia,S040,13940,17760
+P1334,Document Folder 828,Stationery,Files,Classmate,S090,5816,7510
+P1335,Photo Frame 943,Home & Kitchen,Decor,Pigeon,S061,4043,5000
+P1336,Chess Set 405,Toys,Board Games,Funskool,S008,11354,14560
+P1337,Basketball 452,Sports,Team Sports,Nike,S074,32468,44020
+P1338,Watch 886,Apparel,Accessories,Puma,S058,4644,5400
+P1339,Gel Pen 723,Stationery,Writing,Parker,S039,48146,66850
+P1340,Tea 346,Groceries,Beverages,Tata,S047,36267,44790
+P1341,Vase 715,Home & Kitchen,Decor,Prestige,S031,17873,24210
+P1342,Dining Table 241,Furniture,Table,Nilkamal,S062,59196,79490
+P1343,Microphone 503,Electronics,Audio,HP,S057,39529,53200
+P1344,Vacuum Cleaner 375,Home & Kitchen,Cleaning,Philips,S045,40335,53740
+P1345,Shoe Rack 992,Furniture,Storage,Ikea,S029,10478,15060
+P1346,Robot Toy 131,Toys,Action Figures,Lego,S040,42660,55560
+P1347,Stapler 870,Stationery,Office Supplies,Camlin,S050,33573,45980
+P1348,Sandals 352,Sports,Footwear,Yonex,S048,59075,80440
+P1349,Backpack 132,Sports,Outdoor,Puma,S031,28705,35050
+P1350,Photo Frame 693,Home & Kitchen,Decor,Bajaj,S059,40696,50260
+P1351,Headphones 709,Electronics,Audio,HP,S023,20500,26180
+P1352,Wheat Flour 227,Groceries,Staples,Parle,S051,2458,3030
+P1353,Sugar 134,Groceries,Staples,Amul,S013,7718,9720
+P1354,Chess Set 200,Toys,Board Games,Lego,S048,52026,65930
+P1355,Study Table 467,Furniture,Table,Durian,S079,44300,58970
+P1356,Biscuits 219,Groceries,Snacks,Parle,S082,21912,26640
+P1357,Kids Jacket 732,Apparel,Kidswear,Adidas,S070,41884,58270
+P1358,Coffee Table 169,Furniture,Table,Godrej,S075,311,400
+P1359,Action Camera 809,Electronics,Camera,Lenovo,S007,2279,3100
+P1360,Women's Jeans 886,Apparel,Womenswear,Adidas,S035,30458,35770
+P1361,Lens 744,Electronics,Camera,Sony,S066,37516,48430
+P1362,Lens 948,Electronics,Camera,Asus,S081,56224,65130
+P1363,Belt 944,Apparel,Accessories,Zara,S059,45591,61670
+P1364,Office Chair 141,Furniture,Chair,Nilkamal,S086,15476,19390
+P1365,Mop 407,Home & Kitchen,Cleaning,Bajaj,S028,48917,70180
+P1366,Printer 783,Electronics,Computer,LG,S016,29516,36810
+P1367,Women's Top 405,Apparel,Womenswear,Zara,S009,49570,65390
+P1368,Juice 762,Groceries,Beverages,ITC,S059,10467,12850
+P1369,Puzzle Set 796,Toys,Educational,Mattel,S067,1622,2170
+P1370,Yoga Mat 996,Sports,Fitness,Nivia,S029,3508,4530
+P1371,Learning Kit 396,Toys,Educational,Hasbro,S079,59453,74980
+P1372,Cap 412,Apparel,Accessories,Puma,S074,4878,5910
+P1373,Juice 121,Groceries,Beverages,Parle,S037,56364,66700
+P1374,Namkeen 356,Groceries,Snacks,Parle,S024,43634,51750
+P1375,Camping Chair 352,Toys,Outdoor,Hot Wheels,S075,8805,12760
+P1376,Rubik's Cube 507,Toys,Puzzles,Lego,S068,51851,66040
+P1377,3D Puzzle 478,Toys,Puzzles,Hasbro,S018,8695,10000
+P1378,Ball Pen 870,Stationery,Writing,Camlin,S026,8640,12410
+P1379,Cabinet 795,Home & Kitchen,Storage,Milton,S049,34552,39940
+P1380,Vacuum Cleaner 755,Home & Kitchen,Cleaning,Milton,S052,17334,22110
+P1381,Learning Kit 104,Toys,Educational,Mattel,S017,17484,23870
+P1382,Kids Frock 523,Apparel,Kidswear,Levis,S095,11742,16730
+P1383,Sunglasses 755,Apparel,Accessories,Puma,S039,36480,49750
+P1384,Action Set 319,Toys,Action Figures,Lego,S039,1660,2140
+P1385,Energy Drink 481,Groceries,Beverages,Britannia,S007,14742,21260
+P1386,Three Seater Sofa 753,Furniture,Sofa,Godrej,S088,33228,38600
+P1387,Cabinet 814,Home & Kitchen,Storage,Prestige,S024,29218,42250
+P1388,Sunglasses 868,Apparel,Accessories,Adidas,S099,42010,59020
+P1389,Rubik's Cube 486,Toys,Puzzles,Hot Wheels,S050,13013,18590
+P1390,3D Puzzle 459,Toys,Puzzles,Mattel,S088,38890,47700
+P1391,Kids T-Shirt 444,Apparel,Kidswear,Adidas,S018,45608,54400
+P1392,Frying Pan 701,Home & Kitchen,Cookware,Bajaj,S017,23313,31450
+P1393,Camping Chair 477,Toys,Outdoor,Mattel,S081,15445,20150
+P1394,Tent 459,Sports,Outdoor,Nike,S082,33322,43550
+P1395,Shoe Rack 251,Furniture,Storage,Godrej,S055,34752,49600
+P1396,Vacuum Cleaner 530,Home & Kitchen,Cleaning,Prestige,S004,5691,7600
+P1397,Bookshelf 313,Home & Kitchen,Storage,Bajaj,S095,33928,42180
+P1398,Camping Chair 571,Sports,Outdoor,Adidas,S040,9300,11810
+P1399,Charger 898,Electronics,Mobile,Dell,S094,34151,40640
+P1400,Sneakers 797,Apparel,Footwear,Nike,S088,55911,67520
+P1401,Marker 529,Stationery,Writing,Reynolds,S086,32247,38470
+P1402,Shoe Rack 978,Furniture,Storage,Ikea,S069,45702,63670
+P1403,Sneakers 981,Apparel,Footwear,Zara,S068,18616,25340
+P1404,Kids T-Shirt 499,Apparel,Kidswear,Nike,S054,55368,72480
+P1405,Coffee Table 786,Furniture,Table,Urban Ladder,S003,48774,61570
+P1406,Two Seater Sofa 407,Furniture,Sofa,Nilkamal,S039,55004,74290
+P1407,Women's Jeans 889,Apparel,Womenswear,Puma,S074,44508,62040
+P1408,Notebook 435,Stationery,Paper,Classmate,S082,38981,55130
+P1409,Earbuds 332,Electronics,Audio,LG,S056,31523,41420
+P1410,Men's Jacket 220,Apparel,Menswear,Zara,S071,55697,77750
+P1411,Headphones 857,Electronics,Audio,Dell,S003,50899,66340
+P1412,Kadai 366,Home & Kitchen,Cookware,Prestige,S047,25031,32350
+P1413,Sunglasses 831,Apparel,Accessories,Zara,S051,5184,7310
+P1414,Notebook 177,Stationery,Paper,Reynolds,S090,266,340
+P1415,Microwave 550,Home & Kitchen,Appliances,Prestige,S032,14047,17820
+P1416,Drawing Book 484,Stationery,Art Supplies,Camlin,S023,3801,4720
+P1417,Sports Shoes 494,Sports,Footwear,Yonex,S036,12729,16620
+P1418,Chips 250,Groceries,Snacks,Tata,S018,6613,8690
+P1419,Stapler 166,Stationery,Office Supplies,Reynolds,S056,58864,79360
+P1420,Paneer 411,Groceries,Dairy,Parle,S065,5766,7380
+P1421,Action Set 522,Toys,Action Figures,Mattel,S081,37632,45740
+P1422,Sleeping Bag 813,Toys,Outdoor,Hasbro,S098,21134,29800
+P1423,Non-Stick Pan 515,Home & Kitchen,Cookware,Milton,S008,10494,13160
+P1424,Watch 321,Sports,Accessories,Puma,S025,42091,60060
+P1425,Women's Jeans 335,Apparel,Womenswear,Adidas,S031,58234,70590
+P1426,Water Colors 650,Stationery,Art Supplies,Classmate,S025,47449,62540
+P1427,Treadmill 491,Sports,Fitness,Puma,S083,58515,76710
+P1428,Robot Toy 910,Toys,Action Figures,Lego,S014,35433,49560
+P1429,Sandals 495,Apparel,Footwear,Nike,S003,40430,48180
+P1430,Scissors 609,Stationery,Office Supplies,Reynolds,S087,8828,12560
+P1431,Tea 157,Groceries,Beverages,Amul,S097,51152,66980
+P1432,Wardrobe 274,Furniture,Storage,Urban Ladder,S023,44886,59510
+P1433,Gaming Chair 864,Furniture,Chair,Urban Ladder,S034,15278,19910
+P1434,Microwave 409,Home & Kitchen,Appliances,Philips,S051,21320,24750
+P1435,Kids T-Shirt 478,Apparel,Kidswear,H&M,S053,36672,47640
+P1436,Headphones 630,Electronics,Audio,Dell,S100,828,1020
+P1437,Sugar 152,Groceries,Staples,Britannia,S041,49083,61490
+P1438,Formal Shoes 555,Sports,Footwear,Yonex,S002,16871,22690
+P1439,Watch 411,Apparel,Accessories,Adidas,S043,4544,5900
+P1440,Learning Kit 233,Toys,Educational,Funskool,S056,19869,23400
+P1441,File Folder 476,Stationery,Office Supplies,Camlin,S052,50154,58780
+P1442,Kadai 501,Home & Kitchen,Cookware,Milton,S052,16491,19880
+P1443,Learning Kit 267,Toys,Educational,Mattel,S093,32374,39080
+P1444,Chips 588,Groceries,Snacks,ITC,S081,48721,64920
+P1445,Wardrobe 770,Furniture,Storage,Durian,S026,2070,2490
+P1446,Sunglasses 340,Electronics,Accessories,Asus,S036,45607,64510
+P1447,Backpack 968,Toys,Outdoor,Hasbro,S067,17357,21050
+P1448,Sleeping Bag 650,Toys,Outdoor,Hot Wheels,S042,41748,49150
+P1449,Formal Shoes 795,Sports,Footwear,Nike,S043,11326,16000
+P1450,Monitor 163,Electronics,Computer,Asus,S017,8383,10380
+P1451,Sunglasses 789,Apparel,Accessories,Zara,S026,47308,60440
+P1452,Sunglasses 402,Electronics,Accessories,Dell,S075,48479,69700
+P1453,Tablet 738,Electronics,Computer,LG,S085,58880,84390
+P1454,Cabinet 823,Furniture,Storage,Durian,S079,40646,55460
+P1455,Wardrobe 325,Home & Kitchen,Storage,Philips,S031,27979,32750
+P1456,Speaker 333,Electronics,Audio,Asus,S014,11730,15580
+P1457,Jigsaw Puzzle 153,Toys,Puzzles,Mattel,S016,17748,25680
+P1458,Frozen Nuggets 644,Groceries,Frozen,Nestle,S040,38903,55790
+P1459,Kids T-Shirt 795,Apparel,Kidswear,Zara,S052,20798,24580
+P1460,Frying Pan 468,Home & Kitchen,Cookware,Bajaj,S090,29036,36840
+P1461,File Folder 244,Stationery,Office Supplies,Parker,S090,10125,12600
+P1462,Women's Top 384,Apparel,Womenswear,Puma,S001,26389,31370
+P1463,Soundbar 462,Electronics,Audio,Sony,S071,14316,19450
+P1464,Earbuds 923,Electronics,Audio,HP,S030,6771,8340
+P1465,Water Colors 211,Stationery,Art Supplies,Parker,S020,7960,9980
+P1466,Mouse 408,Electronics,Computer,Dell,S056,31122,36630
+P1467,Sleeping Bag 673,Sports,Outdoor,Nivia,S004,22016,28610
+P1468,Rice 312,Groceries,Staples,Parle,S034,6040,7230
+P1469,Pencil 895,Stationery,Writing,Reynolds,S056,30882,39520
+P1470,Charger 917,Electronics,Mobile,Sony,S028,9896,11810
+P1471,Rubik's Cube 441,Toys,Puzzles,Hasbro,S060,975,1400
+P1472,Exercise Bike 770,Sports,Fitness,Cosco,S047,7996,9540
+P1473,Milk 779,Groceries,Dairy,Tata,S080,26939,35200
+P1474,Dining Table 712,Furniture,Table,Godrej,S019,57248,69220
+P1475,Building Blocks 267,Toys,Educational,Funskool,S006,14538,17050
+P1476,Kids Shorts 144,Apparel,Kidswear,Adidas,S053,17127,20740
+P1477,Yogurt 412,Groceries,Dairy,Britannia,S026,14597,17030
+P1478,Tea 217,Groceries,Beverages,Parle,S071,21344,25440
+P1479,Gaming Chair 362,Furniture,Chair,Urban Ladder,S010,43053,55880
+P1480,Cold Drink 673,Groceries,Beverages,ITC,S058,19358,26050
+P1481,Mattress 629,Furniture,Bed,Durian,S099,39471,46430
+P1482,Watch 288,Electronics,Accessories,Samsung,S010,53900,69120
+P1483,Men's Shirt 115,Apparel,Menswear,Zara,S031,56773,75190
+P1484,Charger 302,Electronics,Mobile,HP,S085,33799,41240
+P1485,Namkeen 508,Groceries,Snacks,Amul,S054,42808,54010
+P1486,Scissors 800,Stationery,Office Supplies,Faber-Castell,S018,55153,64610
+P1487,Dining Table 428,Furniture,Table,Godrej,S022,47212,57410
+P1488,Laptop 357,Electronics,Computer,Apple,S077,18030,23260
+P1489,Soundbar 595,Electronics,Audio,Asus,S087,7965,11530
+P1490,Microwave 164,Home & Kitchen,Appliances,Prestige,S037,6934,10050
+P1491,Women's Top 302,Apparel,Womenswear,Nike,S048,52929,76420
+P1492,Chocolate 132,Groceries,Snacks,Tata,S079,33395,42640
+P1493,Cap 572,Electronics,Accessories,Lenovo,S018,17815,20920
+P1494,Sandals 498,Apparel,Footwear,Nike,S021,20764,25890
+P1495,Butter 623,Groceries,Dairy,Britannia,S078,16936,20680
+P1496,Chocolate 654,Groceries,Snacks,Tata,S019,48124,55550
+P1497,Wardrobe 455,Home & Kitchen,Storage,Pigeon,S078,36763,43330
+P1498,Document Folder 881,Stationery,Files,Camlin,S050,52771,67860
+P1499,Cold Drink 925,Groceries,Beverages,Parle,S100,18141,22710
+P1500,Document Folder 199,Stationery,Files,Reynolds,S004,28380,34170
+P1501,Mop 927,Home & Kitchen,Cleaning,Philips,S095,7347,10030
+P1502,Men's Shirt 276,Apparel,Menswear,Puma,S023,58282,73270
+P1503,Mattress 323,Furniture,Bed,Durian,S004,30736,43200
+P1504,Men's Jeans 576,Apparel,Menswear,Levis,S073,33203,40580
+P1505,Frying Pan 126,Home & Kitchen,Cookware,Prestige,S054,24849,32590
+P1506,Recliner 427,Furniture,Chair,Durian,S084,16291,19630
+P1507,Monopoly 274,Toys,Board Games,Mattel,S011,56906,73900
+P1508,Wheat Flour 533,Groceries,Staples,Nestle,S009,29364,35110
+P1509,Sketch Pens 832,Stationery,Art Supplies,Classmate,S057,40502,48540
+P1510,Treadmill 930,Sports,Fitness,Nivia,S089,2286,3050
+P1511,Men's Shirt 290,Apparel,Menswear,Nike,S041,16592,20390
+P1512,Sofa Cum Bed 589,Furniture,Sofa,Godrej,S080,48249,57980
+P1513,Sunglasses 526,Sports,Accessories,Nike,S091,5315,7590
+P1514,Sneakers 473,Apparel,Footwear,Puma,S087,6131,7130
+P1515,Gaming Chair 668,Furniture,Chair,Nilkamal,S051,48599,64130
+P1516,Rubik's Cube 989,Toys,Puzzles,Mattel,S070,18559,24400
+P1517,Wheat Flour 464,Groceries,Staples,ITC,S053,16469,20180
+P1518,Earbuds 158,Electronics,Audio,Dell,S068,33940,43640
+P1519,Coffee 923,Groceries,Beverages,Amul,S057,11735,13800
+P1520,Frozen Paratha 937,Groceries,Frozen,Britannia,S053,2626,3590
+P1521,Sketch Pens 389,Stationery,Art Supplies,Parker,S044,316,380
+P1522,Exercise Bike 550,Sports,Fitness,Nike,S066,4805,5800
+P1523,Study Table 875,Furniture,Table,Ikea,S076,9553,11890
+P1524,Bookshelf 552,Furniture,Storage,Godrej,S092,41782,59360
+P1525,Pressure Cooker 532,Home & Kitchen,Cookware,Milton,S062,17912,24880
+P1526,Feature Phone 928,Electronics,Mobile,Samsung,S011,4353,6240
+P1527,Kids Jacket 845,Apparel,Kidswear,H&M,S059,914,1230
+P1528,Two Seater Sofa 556,Furniture,Sofa,Godrej,S032,28651,38650
+P1529,Printer 245,Electronics,Computer,Sony,S003,50415,65240
+P1530,Chess Set 494,Toys,Board Games,Mattel,S008,20354,28930
+P1531,Belt 708,Electronics,Accessories,Dell,S060,3877,5050
+P1532,Watch 344,Electronics,Accessories,Sony,S095,13723,17240
+P1533,3D Puzzle 583,Toys,Puzzles,Hasbro,S051,29987,40250
+P1534,Bar Stool 692,Furniture,Chair,Nilkamal,S045,11367,14930
+P1535,Document Folder 176,Stationery,Files,Classmate,S009,58709,69700
+P1536,Belt 612,Electronics,Accessories,LG,S068,45816,58090
+P1537,Office Desk 763,Furniture,Table,Durian,S006,20707,25760
+P1538,Speaker 292,Electronics,Audio,Dell,S085,57094,80160
+P1539,Hockey Stick 593,Sports,Team Sports,Yonex,S082,19535,24690
+P1540,Wall Clock 737,Home & Kitchen,Decor,Bajaj,S100,8453,11800
+P1541,Cookies 139,Groceries,Snacks,ITC,S029,56300,72220
+P1542,Recliner Sofa 679,Furniture,Sofa,Urban Ladder,S017,57582,79240
+P1543,Sunglasses 333,Electronics,Accessories,Apple,S030,18793,22370
+P1544,Toaster 457,Home & Kitchen,Appliances,Philips,S080,35706,50970
+P1545,Recliner Sofa 682,Furniture,Sofa,Durian,S022,10438,13510
+P1546,Microwave 103,Home & Kitchen,Appliances,Prestige,S089,38517,47300
+P1547,Sandals 115,Sports,Footwear,Puma,S016,41422,50640
+P1548,Drawing Book 501,Stationery,Art Supplies,Reynolds,S005,42610,52390
+P1549,Butter 953,Groceries,Dairy,Nestle,S022,34145,43020
+P1550,Printer 105,Electronics,Computer,Lenovo,S076,42261,57700
+P1551,Sneakers 809,Apparel,Footwear,Zara,S061,33325,47820
+P1552,Stapler 167,Stationery,Office Supplies,Classmate,S036,49197,66450
+P1553,Mixer Grinder 539,Home & Kitchen,Appliances,Milton,S066,10816,14210
+P1554,Frying Pan 487,Home & Kitchen,Cookware,Philips,S065,29033,37300
+P1555,Ice Cream 520,Groceries,Frozen,ITC,S056,25012,34980
+P1556,Office Chair 173,Furniture,Chair,Nilkamal,S052,32024,44990
+P1557,Tent 777,Toys,Outdoor,Hot Wheels,S011,8567,10610
+P1558,Box File 347,Stationery,Files,Reynolds,S026,19463,27950
+P1559,Learning Kit 793,Toys,Educational,Funskool,S053,57250,72620
+P1560,Crayons 689,Stationery,Art Supplies,Classmate,S014,6360,8840
+P1561,Kids Frock 595,Apparel,Kidswear,Zara,S048,38136,54920
+P1562,Women's Kurti 377,Apparel,Womenswear,Adidas,S012,39895,54300
+P1563,Mattress 686,Furniture,Bed,Nilkamal,S079,28497,34150
+P1564,Chess Set 996,Toys,Board Games,Funskool,S011,2064,2740
+P1565,Vase 929,Home & Kitchen,Decor,Milton,S010,2109,2500
+P1566,Milk 923,Groceries,Dairy,Parle,S064,16574,22980
+P1567,3D Puzzle 297,Toys,Puzzles,Mattel,S023,6195,7650
+P1568,Detergent 626,Home & Kitchen,Cleaning,Philips,S036,5699,7740
+P1569,Action Set 457,Toys,Action Figures,Hasbro,S032,9649,13730
+P1570,3D Puzzle 969,Toys,Puzzles,Mattel,S022,11484,13830
+P1571,Watch 954,Electronics,Accessories,LG,S077,50316,63790
+P1572,Belt 880,Apparel,Accessories,Puma,S070,38341,51540
+P1573,Sneakers 246,Sports,Footwear,Adidas,S024,1873,2390
+P1574,Scissors 386,Stationery,Office Supplies,Faber-Castell,S069,37727,45360
+P1575,Mattress 739,Furniture,Bed,Godrej,S072,8245,9550
+P1576,Women's Top 773,Apparel,Womenswear,Levis,S054,25292,32170
+P1577,Electric Kettle 414,Home & Kitchen,Appliances,Philips,S058,2330,3130
+P1578,Crayons 223,Stationery,Art Supplies,Classmate,S094,5455,7210
+P1579,Watch 223,Electronics,Accessories,Lenovo,S046,7999,9570
+P1580,Wall Clock 715,Home & Kitchen,Decor,Prestige,S039,26030,33450
+P1581,Women's Top 508,Apparel,Womenswear,Puma,S054,27811,35070
+P1582,Cabinet 541,Furniture,Storage,Godrej,S084,21197,26120
+P1583,Microwave 833,Home & Kitchen,Appliances,Bajaj,S071,37229,50960
+P1584,Pulses 115,Groceries,Staples,ITC,S008,43241,53740
+P1585,Sleeping Bag 778,Sports,Outdoor,Nivia,S046,43737,57380
+P1586,Kids Shorts 346,Apparel,Kidswear,Adidas,S074,34762,49600
+P1587,Sticky Notes 937,Stationery,Office Supplies,Camlin,S023,32756,42970
+P1588,Phone Case 958,Electronics,Mobile,Lenovo,S099,29519,39410
+P1589,Box File 551,Stationery,Files,Parker,S081,14314,16780
+P1590,Phone Case 383,Electronics,Mobile,Samsung,S085,29244,35190
+P1591,Yoga Mat 309,Sports,Fitness,Puma,S009,655,770
+P1592,Women's Dress 263,Apparel,Womenswear,Zara,S058,57979,79980
+P1593,Milk 998,Groceries,Dairy,Amul,S053,22237,31150
+P1594,Desktop 268,Electronics,Computer,HP,S063,45389,54740
+P1595,Tent 501,Sports,Outdoor,Cosco,S086,57404,69790
+P1596,Recliner 530,Furniture,Chair,Godrej,S036,29843,37210
+P1597,Basketball 710,Sports,Team Sports,Nike,S054,51716,68640
+P1598,Formal Shoes 857,Sports,Footwear,Puma,S068,28779,38460
+P1599,Document Folder 601,Stationery,Files,Classmate,S076,7980,10820
+P1600,Camping Chair 781,Sports,Outdoor,Adidas,S078,1637,2330
+P1601,Watch 609,Apparel,Accessories,H&M,S034,8180,10130
+P1602,Backpack 492,Sports,Outdoor,Nike,S100,56553,76210
+P1603,Notebook 241,Stationery,Paper,Faber-Castell,S001,28532,37600
+P1604,Kids Jacket 287,Apparel,Kidswear,Zara,S050,19184,23820
+P1605,Action Camera 488,Electronics,Camera,Sony,S061,26791,38100
+P1606,Tent 141,Toys,Outdoor,Lego,S007,15393,18140
+P1607,Bookshelf 384,Furniture,Storage,Urban Ladder,S046,52239,71230
+P1608,Microwave 515,Home & Kitchen,Appliances,Philips,S060,59964,82050
+P1609,Bookshelf 524,Furniture,Storage,Godrej,S061,5140,7320
+P1610,Sofa Cum Bed 832,Furniture,Sofa,Ikea,S012,43135,56320
+P1611,Ring Binder 969,Stationery,Files,Reynolds,S028,20169,25140
+P1612,Recliner Sofa 755,Furniture,Sofa,Nilkamal,S025,2889,4040
+P1613,Exercise Bike 171,Sports,Fitness,Adidas,S064,55336,76430
+P1614,Cricket Bat 467,Sports,Team Sports,Yonex,S033,3760,4890
+P1615,Monitor 756,Electronics,Computer,Dell,S058,12393,17110
+P1616,Single Bed 634,Furniture,Bed,Durian,S074,1578,1940
+P1617,Document Folder 511,Stationery,Files,Camlin,S080,28303,37550
+P1618,Pressure Cooker 492,Home & Kitchen,Cookware,Prestige,S019,35997,50740
+P1619,Camera Bag 464,Electronics,Camera,Dell,S091,19274,24000
+P1620,3D Puzzle 620,Toys,Puzzles,Hasbro,S017,4340,5620
+P1621,Wallet 260,Apparel,Accessories,Adidas,S003,7013,10070
+P1622,Power Bank 565,Electronics,Mobile,Dell,S005,56006,77820
+P1623,Puzzle Set 285,Toys,Educational,Hasbro,S021,48364,68490
+P1624,Wallet 712,Electronics,Accessories,HP,S088,56217,71150
+P1625,Shoe Rack 877,Home & Kitchen,Storage,Pigeon,S021,31871,46180
+P1626,Ludo 556,Toys,Board Games,Hasbro,S070,32785,39200
+P1627,Shoe Rack 448,Home & Kitchen,Storage,Pigeon,S042,47170,61590
+P1628,Pressure Cooker 945,Home & Kitchen,Cookware,Pigeon,S004,37017,47890
+P1629,Wheat Flour 693,Groceries,Staples,Nestle,S045,26214,36430
+P1630,Gaming Chair 484,Furniture,Chair,Ikea,S003,17549,24960
+P1631,Wardrobe 125,Home & Kitchen,Storage,Pigeon,S048,29156,39920
+P1632,Backpack 114,Toys,Outdoor,Lego,S056,3885,5200
+P1633,Sunglasses 299,Electronics,Accessories,Asus,S053,11587,14810
+P1634,Ludo 312,Toys,Board Games,Hot Wheels,S029,44260,57680
+P1635,Cold Drink 748,Groceries,Beverages,Amul,S077,52089,67860
+P1636,Non-Stick Pan 550,Home & Kitchen,Cookware,Milton,S060,6152,7110
+P1637,Office Desk 998,Furniture,Table,Godrej,S026,5859,7620
+P1638,Vacuum Cleaner 585,Home & Kitchen,Cleaning,Bajaj,S044,5179,7290
+P1639,Office Chair 911,Furniture,Chair,Urban Ladder,S011,47505,64740
+P1640,Watch 596,Apparel,Accessories,Zara,S093,18707,25980
+P1641,Backpack 422,Sports,Outdoor,Cosco,S076,19639,24890
+P1642,Headphones 742,Electronics,Audio,Samsung,S029,797,1040
+P1643,Chips 504,Groceries,Snacks,Tata,S068,58357,67700
+P1644,Vase 346,Home & Kitchen,Decor,Philips,S068,26070,32980
+P1645,Shoe Rack 525,Furniture,Storage,Godrej,S061,47856,61850
+P1646,Men's Shirt 697,Apparel,Menswear,Zara,S006,42475,52100
+P1647,Kids Shorts 437,Apparel,Kidswear,Nike,S088,8549,9910
+P1648,Sports Shoes 732,Sports,Footwear,Cosco,S096,48090,65260
+P1649,Rubik's Cube 981,Toys,Puzzles,Lego,S098,33040,42310
+P1650,Stapler 469,Stationery,Office Supplies,Classmate,S099,36278,46240
+P1651,Three Seater Sofa 365,Furniture,Sofa,Urban Ladder,S093,12058,14770
+P1652,Belt 461,Electronics,Accessories,Dell,S074,50820,66640
+P1653,Watch 853,Electronics,Accessories,LG,S006,55903,71630
+P1654,Microwave 260,Home & Kitchen,Appliances,Bajaj,S047,24419,31550
+P1655,Recliner Sofa 975,Furniture,Sofa,Urban Ladder,S025,5594,7410
+P1656,Cabinet 472,Furniture,Storage,Durian,S022,50933,58670
+P1657,Gel Pen 856,Stationery,Writing,Classmate,S084,53249,75740
+P1658,File Folder 807,Stationery,Office Supplies,Camlin,S082,30413,35620
+P1659,Sticky Pad 804,Stationery,Paper,Reynolds,S053,34769,44690
+P1660,Men's T-Shirt 917,Apparel,Menswear,Nike,S074,13421,16270
+P1661,Vase 266,Home & Kitchen,Decor,Milton,S013,4095,5350
+P1662,Mop 633,Home & Kitchen,Cleaning,Pigeon,S023,56651,69910
+P1663,Bar Stool 189,Furniture,Chair,Godrej,S087,29003,40840
+P1664,Curtains 369,Home & Kitchen,Decor,Milton,S046,16534,20980
+P1665,Mixer Grinder 136,Home & Kitchen,Appliances,Philips,S055,41609,55820
+P1666,Milk 713,Groceries,Dairy,ITC,S047,1620,1980
+P1667,File Folder 646,Stationery,Office Supplies,Faber-Castell,S021,4842,5600
+P1668,Cap 765,Sports,Accessories,Puma,S083,14598,18560
+P1669,Non-Stick Pan 258,Home & Kitchen,Cookware,Pigeon,S076,27066,35480
+P1670,Watch 398,Sports,Accessories,Yonex,S069,22032,28370
+P1671,A4 Sheets 708,Stationery,Paper,Reynolds,S036,11281,16230
+P1672,Bookshelf 843,Home & Kitchen,Storage,Pigeon,S065,21113,28760
+P1673,Wallet 896,Apparel,Accessories,Levis,S096,20067,29070
+P1674,Ball Pen 166,Stationery,Writing,Classmate,S065,31503,39020
+P1675,Watch 461,Sports,Accessories,Puma,S050,33786,46850
+P1676,Monopoly 109,Toys,Board Games,Mattel,S028,52993,69770
+P1677,Sofa Cum Bed 835,Furniture,Sofa,Nilkamal,S053,48416,64560
+P1678,Frozen Paratha 210,Groceries,Frozen,Tata,S038,17575,25410
+P1679,Carrom Board 839,Toys,Board Games,Hasbro,S062,54164,72920
+P1680,Microwave 240,Home & Kitchen,Appliances,Philips,S005,31270,44390
+P1681,Learning Kit 113,Toys,Educational,Lego,S020,11301,15460
+P1682,Keyboard 890,Electronics,Computer,Asus,S079,20441,24290
+P1683,Phone Case 494,Electronics,Mobile,LG,S039,44518,60540
+P1684,Ring Binder 482,Stationery,Files,Classmate,S044,49315,63880
+P1685,Kids Jacket 681,Apparel,Kidswear,Levis,S055,22478,32050
+P1686,Vase 347,Home & Kitchen,Decor,Prestige,S044,9498,13220
+P1687,Biscuits 721,Groceries,Snacks,Tata,S076,11553,13650
+P1688,Cheese 485,Groceries,Dairy,Amul,S025,6255,7440
+P1689,Backpack 345,Toys,Outdoor,Hasbro,S076,41939,49110
+P1690,Belt 454,Electronics,Accessories,Asus,S021,30204,39200
+P1691,Sticky Pad 105,Stationery,Paper,Classmate,S038,27098,31820
+P1692,Backpack 371,Toys,Outdoor,Mattel,S059,40329,55130
+P1693,Wallet 631,Sports,Accessories,Nivia,S089,49728,65430
+P1694,Cheese 223,Groceries,Dairy,Nestle,S024,47741,66870
+P1695,Three Seater Sofa 206,Furniture,Sofa,Nilkamal,S059,8271,10210
+P1696,Tent 689,Sports,Outdoor,Nivia,S007,35398,46220
+P1697,Cold Drink 484,Groceries,Beverages,Nestle,S008,52956,62770
+P1698,Cabinet 222,Furniture,Storage,Nilkamal,S077,46442,65730
+P1699,Men's Jeans 772,Apparel,Menswear,Adidas,S072,19798,23810
+P1700,Learning Kit 797,Toys,Educational,Lego,S038,23592,27860
+P1701,Wallet 131,Apparel,Accessories,Nike,S063,53417,64720
+P1702,Double Bed 281,Furniture,Bed,Durian,S039,2020,2810
+P1703,Backpack 432,Sports,Outdoor,Cosco,S028,31548,37280
+P1704,Three Seater Sofa 757,Furniture,Sofa,Ikea,S044,7010,9350
+P1705,Puzzle Set 166,Toys,Educational,Hasbro,S032,53680,73750
+P1706,Stapler 824,Stationery,Office Supplies,Reynolds,S082,2371,3260
+P1707,Backpack 387,Toys,Outdoor,Lego,S042,1452,1750
+P1708,Robot Toy 212,Toys,Action Figures,Mattel,S033,19770,23100
+P1709,Double Bed 876,Furniture,Bed,Ikea,S054,12049,15480
+P1710,Sofa Cum Bed 177,Furniture,Sofa,Ikea,S076,29754,36020
+P1711,Men's Jacket 216,Apparel,Menswear,Zara,S028,18009,24490
+P1712,Coffee 953,Groceries,Beverages,Britannia,S094,21411,26910
+P1713,Jigsaw Puzzle 567,Toys,Puzzles,Hot Wheels,S047,33917,43580
+P1714,Cricket Bat 516,Sports,Team Sports,Puma,S067,33657,39850
+P1715,Hockey Stick 717,Sports,Team Sports,Cosco,S096,56099,74070
+P1716,Carrom Board 666,Toys,Board Games,Funskool,S044,28862,34800
+P1717,Hockey Stick 651,Sports,Team Sports,Nike,S020,33875,45860
+P1718,Pulses 120,Groceries,Staples,Parle,S075,40692,47660
+P1719,Yogurt 596,Groceries,Dairy,Parle,S001,10495,15140
+P1720,Pressure Cooker 350,Home & Kitchen,Cookware,Pigeon,S046,40034,54260
+P1721,Action Camera 826,Electronics,Camera,Lenovo,S098,51721,62300
+P1722,Formal Shoes 554,Sports,Footwear,Puma,S042,19117,22070
+P1723,Yoga Mat 211,Sports,Fitness,Puma,S069,10741,13430
+P1724,Backpack 896,Sports,Outdoor,Adidas,S053,20805,24880
+P1725,Broom 355,Home & Kitchen,Cleaning,Philips,S022,16538,20100
+P1726,Sticky Pad 344,Stationery,Paper,Camlin,S032,35129,49600
+P1727,Puzzle Set 941,Toys,Educational,Lego,S053,51830,68980
+P1728,Kadai 796,Home & Kitchen,Cookware,Prestige,S011,35806,43070
+P1729,Butter 872,Groceries,Dairy,Nestle,S042,7574,9970
+P1730,Headphones 695,Electronics,Audio,Apple,S042,18916,23200
+P1731,Ring Binder 918,Stationery,Files,Camlin,S084,41374,59700
+P1732,Monopoly 203,Toys,Board Games,Lego,S013,19852,23020
+P1733,Sunglasses 639,Sports,Accessories,Nike,S085,35204,48220
+P1734,File Folder 363,Stationery,Office Supplies,Faber-Castell,S042,41657,57570
+P1735,Drawing Book 458,Stationery,Art Supplies,Parker,S066,19783,23150
+P1736,Gel Pen 313,Stationery,Writing,Faber-Castell,S056,38862,46700
+P1737,Photo Frame 284,Home & Kitchen,Decor,Prestige,S030,23917,30260
+P1738,Printer 497,Electronics,Computer,Lenovo,S094,8146,11490
+P1739,Microphone 925,Electronics,Audio,Lenovo,S023,22362,29320
+P1740,Office Desk 671,Furniture,Table,Nilkamal,S004,26490,35670
+P1741,Tea 414,Groceries,Beverages,ITC,S076,193,270
+P1742,Exercise Bike 489,Sports,Fitness,Nike,S063,53567,74910
+P1743,Butter 576,Groceries,Dairy,Britannia,S090,31697,40980
+P1744,Sunglasses 319,Electronics,Accessories,Lenovo,S046,2226,2900
+P1745,Gaming Chair 568,Furniture,Chair,Godrej,S002,52086,71120
+P1746,Chess Set 725,Toys,Board Games,Funskool,S003,51317,63070
+P1747,Action Set 318,Toys,Action Figures,Hasbro,S044,772,1090
+P1748,Frozen Paratha 625,Groceries,Frozen,Amul,S025,9832,11370
+P1749,Sketch Pens 736,Stationery,Art Supplies,Camlin,S093,21859,26420
+P1750,Wallet 566,Sports,Accessories,Puma,S012,30459,42340
+P1751,Action Set 362,Toys,Action Figures,Mattel,S089,43559,54540
+P1752,Building Blocks 598,Toys,Educational,Lego,S022,25488,30460
+P1753,Football 813,Sports,Team Sports,Puma,S012,36722,44290
+P1754,Wheat Flour 299,Groceries,Staples,Amul,S028,657,860
+P1755,Wallet 616,Sports,Accessories,Cosco,S015,39529,55490
+P1756,Wallet 711,Apparel,Accessories,Levis,S041,54928,64330
+P1757,Belt 389,Apparel,Accessories,Zara,S034,31596,36620
+P1758,Detergent 448,Home & Kitchen,Cleaning,Bajaj,S053,27322,35230
+P1759,Toaster 899,Home & Kitchen,Appliances,Prestige,S054,17862,25670
+P1760,Vase 426,Home & Kitchen,Decor,Milton,S001,57258,70640
+P1761,Energy Drink 637,Groceries,Beverages,Tata,S013,2040,2930
+P1762,Butter 234,Groceries,Dairy,Parle,S017,17240,24420
+P1763,Power Bank 932,Electronics,Mobile,Samsung,S020,8365,10330
+P1764,Frying Pan 636,Home & Kitchen,Cookware,Prestige,S010,51983,72520
+P1765,Toaster 783,Home & Kitchen,Appliances,Milton,S032,28982,39290
+P1766,Chess Set 641,Toys,Board Games,Funskool,S055,55347,72150
+P1767,Microwave 419,Home & Kitchen,Appliances,Bajaj,S031,39926,50980
+P1768,Frozen Peas 405,Groceries,Frozen,Amul,S033,33432,46630
+P1769,Headphones 730,Electronics,Audio,Apple,S047,31072,43130
+P1770,Recliner Sofa 873,Furniture,Sofa,Durian,S055,12200,16800
+P1771,Formal Shoes 214,Apparel,Footwear,Levis,S034,33744,48910
+P1772,Energy Drink 860,Groceries,Beverages,Amul,S023,41130,53200
+P1773,Women's Top 846,Apparel,Womenswear,H&M,S041,57922,80630
+P1774,Pulses 198,Groceries,Staples,Parle,S003,32961,46430
+P1775,Water Colors 197,Stationery,Art Supplies,Faber-Castell,S050,56333,68360
+P1776,Dining Table 724,Furniture,Table,Ikea,S095,56674,65890
+P1777,Kids T-Shirt 857,Apparel,Kidswear,Levis,S040,31377,39890
+P1778,Sofa Cum Bed 454,Furniture,Sofa,Godrej,S011,26384,37120
+P1779,Women's Dress 675,Apparel,Womenswear,Zara,S071,8605,10640
+P1780,Exercise Bike 998,Sports,Fitness,Yonex,S013,16147,21960
+P1781,Phone Case 390,Electronics,Mobile,Samsung,S020,52751,60780
+P1782,Belt 302,Apparel,Accessories,Adidas,S015,8340,10480
+P1783,Camera Bag 991,Electronics,Camera,Lenovo,S089,23853,31840
+P1784,3D Puzzle 352,Toys,Puzzles,Lego,S099,41933,49860
+P1785,Wallet 524,Sports,Accessories,Adidas,S057,14475,20540
+P1786,Gaming Chair 497,Furniture,Chair,Ikea,S062,58447,69950
+P1787,Study Table 570,Furniture,Table,Durian,S065,38986,55470
+P1788,Mouse 341,Electronics,Computer,LG,S062,1749,2120
+P1789,Cold Drink 710,Groceries,Beverages,ITC,S055,14867,21530
+P1790,Box File 722,Stationery,Files,Camlin,S099,44439,59170
+P1791,Wardrobe 280,Home & Kitchen,Storage,Philips,S074,51798,60880
+P1792,Learning Kit 532,Toys,Educational,Lego,S009,55619,65050
+P1793,Formal Shoes 151,Apparel,Footwear,Levis,S040,51077,59890
+P1794,Kids T-Shirt 298,Apparel,Kidswear,Adidas,S098,4533,6020
+P1795,Coffee 987,Groceries,Beverages,ITC,S041,43794,61000
+P1796,Sofa Cum Bed 555,Furniture,Sofa,Ikea,S021,6654,8460
+P1797,Jigsaw Puzzle 659,Toys,Puzzles,Lego,S087,4639,5950
+P1798,Cabinet 899,Furniture,Storage,Ikea,S063,41532,55100
+P1799,Sugar 741,Groceries,Staples,Nestle,S057,28716,37620
+P1800,Electric Kettle 812,Home & Kitchen,Appliances,Bajaj,S043,38895,52760
+P1801,Camera Bag 740,Electronics,Camera,Asus,S013,51096,65990
+P1802,Cheese 548,Groceries,Dairy,Tata,S039,4176,5700
+P1803,Frozen Peas 668,Groceries,Frozen,Britannia,S044,31675,45900
+P1804,Men's Shirt 359,Apparel,Menswear,Puma,S094,50073,62850
+P1805,Bar Stool 900,Furniture,Chair,Nilkamal,S031,26445,30510
+P1806,Belt 261,Electronics,Accessories,Lenovo,S015,31429,37330
+P1807,Charger 894,Electronics,Mobile,Sony,S043,29896,39340
+P1808,Namkeen 889,Groceries,Snacks,Britannia,S100,54436,68220
+P1809,Action Camera 227,Electronics,Camera,Sony,S049,3041,4350
+P1810,Flash Cards 738,Toys,Educational,Hot Wheels,S038,52685,70500
+P1811,Cabinet 989,Furniture,Storage,Durian,S067,48992,63990
+P1812,Camping Chair 614,Sports,Outdoor,Nike,S065,48759,67750
+P1813,Dumbbells 405,Sports,Fitness,Puma,S030,24766,30400
+P1814,Frozen Peas 890,Groceries,Frozen,ITC,S097,30978,43240
+P1815,Building Blocks 560,Toys,Educational,Hasbro,S060,22170,25520
+P1816,Desktop 209,Electronics,Computer,Lenovo,S006,15140,20230
+P1817,Double Bed 324,Furniture,Bed,Ikea,S041,52532,75140
+P1818,Belt 713,Apparel,Accessories,H&M,S093,30383,42120
+P1819,Bar Stool 509,Furniture,Chair,Nilkamal,S040,43414,61040
+P1820,Formal Shoes 294,Apparel,Footwear,Zara,S057,6093,7730
+P1821,Kids Jacket 818,Apparel,Kidswear,Nike,S062,47346,66160
+P1822,Clip Folder 208,Stationery,Files,Classmate,S071,39547,52010
+P1823,Men's Shirt 296,Apparel,Menswear,Puma,S088,59856,79940
+P1824,3D Puzzle 518,Toys,Puzzles,Funskool,S015,8081,9440
+P1825,Notebook 135,Stationery,Paper,Camlin,S052,32425,39250
+P1826,Rubik's Cube 448,Toys,Puzzles,Hot Wheels,S054,30694,40370
+P1827,Feature Phone 918,Electronics,Mobile,HP,S016,32327,37750
+P1828,Jigsaw Puzzle 946,Toys,Puzzles,Funskool,S068,3310,4540
+P1829,Vacuum Cleaner 883,Home & Kitchen,Cleaning,Milton,S012,28413,39840
+P1830,Puzzle Set 391,Toys,Educational,Mattel,S046,18005,25680
+P1831,Cap 158,Apparel,Accessories,Levis,S034,37060,43750
+P1832,Tent 832,Toys,Outdoor,Hasbro,S016,13963,19990
+P1833,Toaster 435,Home & Kitchen,Appliances,Philips,S083,26131,30580
+P1834,Speaker 773,Electronics,Audio,HP,S025,37220,48100
+P1835,Chocolate 207,Groceries,Snacks,Britannia,S026,3889,5450
+P1836,Wardrobe 700,Furniture,Storage,Urban Ladder,S086,47217,55300
+P1837,Jigsaw Puzzle 627,Toys,Puzzles,Hot Wheels,S088,42958,49640
+P1838,Cap 927,Apparel,Accessories,Puma,S004,3485,4030
+P1839,Coffee Table 191,Furniture,Table,Nilkamal,S028,3930,5120
+P1840,Cabinet 466,Home & Kitchen,Storage,Prestige,S071,51024,71100
+P1841,Cheese 989,Groceries,Dairy,ITC,S078,17035,20240
+P1842,Lens 450,Electronics,Camera,Dell,S100,51653,61330
+P1843,Chart Paper 691,Stationery,Paper,Parker,S056,29980,39590
+P1844,Drawing Book 244,Stationery,Art Supplies,Camlin,S001,20569,25100
+P1845,Football 754,Sports,Team Sports,Nivia,S088,16449,22520
+P1846,Wall Clock 347,Home & Kitchen,Decor,Prestige,S017,39557,56760
+P1847,Frozen Nuggets 614,Groceries,Frozen,Parle,S013,6628,9150
+P1848,Microwave 890,Home & Kitchen,Appliances,Philips,S068,24186,34180
+P1849,Mixer Grinder 694,Home & Kitchen,Appliances,Prestige,S061,20784,27140
+P1850,Study Table 526,Furniture,Table,Ikea,S006,9293,13010
+P1851,Tablet 270,Electronics,Computer,Dell,S017,21201,25540
+P1852,Women's Jeans 406,Apparel,Womenswear,Zara,S059,31743,37160
+P1853,Coffee 863,Groceries,Beverages,ITC,S026,40669,54770
+P1854,Recliner 294,Furniture,Chair,Nilkamal,S069,5227,6090
+P1855,Lens 690,Electronics,Camera,Samsung,S042,52350,74220
+P1856,Gel Pen 535,Stationery,Writing,Parker,S059,52714,71560
+P1857,Kids Jacket 388,Apparel,Kidswear,Puma,S048,41534,59630
+P1858,Vacuum Cleaner 744,Home & Kitchen,Cleaning,Milton,S037,55461,69000
+P1859,Detergent 425,Home & Kitchen,Cleaning,Philips,S035,25705,33310
+P1860,Cricket Bat 357,Sports,Team Sports,Nike,S070,49305,67670
+P1861,Yoga Mat 575,Sports,Fitness,Nivia,S052,43649,53380
+P1862,Cap 781,Apparel,Accessories,Nike,S060,33773,44330
+P1863,Box File 876,Stationery,Files,Reynolds,S058,10811,14570
+P1864,Sneakers 666,Apparel,Footwear,Zara,S021,33478,48330
+P1865,Ball Pen 695,Stationery,Writing,Parker,S092,54085,74280
+P1866,Energy Drink 808,Groceries,Beverages,Tata,S057,59077,70030
+P1867,Charger 342,Electronics,Mobile,Lenovo,S072,26911,34790
+P1868,Marker 325,Stationery,Writing,Reynolds,S089,14911,19780
+P1869,Belt 535,Electronics,Accessories,Lenovo,S093,44863,53570
+P1870,Scissors 667,Stationery,Office Supplies,Reynolds,S067,4603,5890
+P1871,Feature Phone 680,Electronics,Mobile,Samsung,S079,9108,11250
+P1872,Three Seater Sofa 238,Furniture,Sofa,Godrej,S048,33738,40000
+P1873,Cabinet 801,Home & Kitchen,Storage,Pigeon,S074,59412,77450
+P1874,Action Set 427,Toys,Action Figures,Hasbro,S033,19760,23710
+P1875,Cookies 888,Groceries,Snacks,Britannia,S072,26627,35340
+P1876,Headphones 751,Electronics,Audio,HP,S009,19374,23270
+P1877,Mattress 983,Furniture,Bed,Durian,S092,26458,36170
+P1878,Jigsaw Puzzle 667,Toys,Puzzles,Lego,S025,474,570
+P1879,Sunglasses 574,Sports,Accessories,Nike,S066,35703,50660
+P1880,Sunglasses 268,Electronics,Accessories,Apple,S002,35794,41440
+P1881,Energy Drink 458,Groceries,Beverages,Parle,S016,18968,24780
+P1882,Women's Dress 871,Apparel,Womenswear,Adidas,S099,15878,19780
+P1883,Bookshelf 443,Furniture,Storage,Ikea,S084,45708,55650
+P1884,Pencil 147,Stationery,Writing,Classmate,S023,11312,14610
+P1885,Mixer Grinder 320,Home & Kitchen,Appliances,Prestige,S014,2871,4030
+P1886,Recliner 635,Furniture,Chair,Urban Ladder,S082,2473,3520
+P1887,Belt 665,Sports,Accessories,Cosco,S100,52911,65660
+P1888,Juice 984,Groceries,Beverages,Nestle,S017,21893,26190
+P1889,Monitor 939,Electronics,Computer,Apple,S067,6154,8410
+P1890,Cold Drink 577,Groceries,Beverages,Nestle,S029,52744,69860
+P1891,Bar Stool 598,Furniture,Chair,Nilkamal,S075,8959,10840
+P1892,Bookshelf 819,Furniture,Storage,Urban Ladder,S042,20233,27880
+P1893,Action Set 143,Toys,Action Figures,Hasbro,S013,1290,1680
+P1894,Sunglasses 635,Sports,Accessories,Nike,S033,40760,54860
+P1895,Study Table 526,Furniture,Table,Nilkamal,S054,41973,52790
+P1896,Crayons 803,Stationery,Art Supplies,Faber-Castell,S080,45404,58200
+P1897,Detergent 819,Home & Kitchen,Cleaning,Pigeon,S003,15819,19050
+P1898,Notebook 689,Stationery,Paper,Classmate,S096,19719,27150
+P1899,Formal Shoes 690,Sports,Footwear,Nike,S065,56290,67380
+P1900,Women's Top 721,Apparel,Womenswear,Levis,S088,49307,68220
+P1901,Vase 621,Home & Kitchen,Decor,Milton,S094,2277,3160
+P1902,Wardrobe 304,Home & Kitchen,Storage,Bajaj,S016,41528,57060
+P1903,Watch 355,Sports,Accessories,Nivia,S010,48773,56370
+P1904,Double Bed 766,Furniture,Bed,Durian,S078,33576,41360
+P1905,Sandals 655,Apparel,Footwear,H&M,S019,38412,49570
+P1906,Two Seater Sofa 313,Furniture,Sofa,Godrej,S015,109,140
+P1907,Formal Shoes 889,Apparel,Footwear,Levis,S047,1851,2640
+P1908,Sofa Cum Bed 981,Furniture,Sofa,Godrej,S092,2153,2720
+P1909,Tablet 662,Electronics,Computer,Lenovo,S080,9580,13530
+P1910,Robot Toy 304,Toys,Action Figures,Hot Wheels,S052,59452,71280
+P1911,Keyboard 943,Electronics,Computer,Apple,S020,38079,48030
+P1912,Building Blocks 312,Toys,Educational,Hot Wheels,S034,46947,54730
+P1913,Earbuds 488,Electronics,Audio,Samsung,S069,17770,24390
+P1914,Stapler 871,Stationery,Office Supplies,Reynolds,S016,56257,67240
+P1915,Kids Jacket 568,Apparel,Kidswear,Puma,S053,11974,14690
+P1916,Photo Frame 318,Home & Kitchen,Decor,Prestige,S002,54143,74860
+P1917,Sandals 172,Apparel,Footwear,Adidas,S033,1896,2480
+P1918,Frozen Nuggets 424,Groceries,Frozen,Amul,S025,1275,1470
+P1919,Frozen Peas 704,Groceries,Frozen,Nestle,S069,4779,5500
+P1920,Electric Kettle 742,Home & Kitchen,Appliances,Philips,S092,47521,61930
+P1921,Chocolate 300,Groceries,Snacks,Nestle,S015,15486,19230
+P1922,Vacuum Cleaner 242,Home & Kitchen,Cleaning,Prestige,S080,27096,32630
+P1923,Marker 730,Stationery,Writing,Parker,S066,28305,37760
+P1924,Paneer 243,Groceries,Dairy,Nestle,S097,47384,57740
+P1925,Kids T-Shirt 157,Apparel,Kidswear,Zara,S092,20956,27820
+P1926,Bar Stool 537,Furniture,Chair,Urban Ladder,S011,452,570
+P1927,Sneakers 613,Apparel,Footwear,Nike,S075,23219,28000
+P1928,Dining Table 319,Furniture,Table,Urban Ladder,S060,17327,20640
+P1929,Bar Stool 289,Furniture,Chair,Urban Ladder,S012,43866,53560
+P1930,Backpack 311,Toys,Outdoor,Lego,S026,45091,52260
+P1931,Laptop 408,Electronics,Computer,LG,S093,5562,6910
+P1932,Sugar 108,Groceries,Staples,Tata,S055,47591,67610
+P1933,Marker 110,Stationery,Writing,Reynolds,S034,4275,5980
+P1934,Ludo 433,Toys,Board Games,Hasbro,S033,37201,46930
+P1935,Recliner Sofa 117,Furniture,Sofa,Urban Ladder,S084,23387,30940
+P1936,Dining Table 386,Furniture,Table,Durian,S029,18110,23910
+P1937,Sneakers 622,Apparel,Footwear,Levis,S016,29017,40580
+P1938,Vacuum Cleaner 128,Home & Kitchen,Cleaning,Bajaj,S058,18656,22780
+P1939,Rubik's Cube 655,Toys,Puzzles,Mattel,S100,47642,59020
+P1940,Gaming Chair 658,Furniture,Chair,Urban Ladder,S019,58007,71960
+P1941,Double Bed 615,Furniture,Bed,Durian,S026,48957,56900
+P1942,Sunglasses 663,Apparel,Accessories,Nike,S047,26380,32830
+P1943,A4 Sheets 827,Stationery,Paper,Camlin,S020,30221,42710
+P1944,Mouse 163,Electronics,Computer,Sony,S066,26855,38230
+P1945,Frozen Paratha 251,Groceries,Frozen,Britannia,S026,47622,56330
+P1946,Printer 385,Electronics,Computer,Sony,S013,33162,42690
+P1947,Wardrobe 718,Furniture,Storage,Ikea,S027,28114,35550
+P1948,Ludo 884,Toys,Board Games,Mattel,S094,24599,31900
+P1949,Microphone 925,Electronics,Audio,Sony,S094,22533,29660
+P1950,Kids Jacket 623,Apparel,Kidswear,Levis,S051,33182,38360
+P1951,Puzzle Set 468,Toys,Educational,Lego,S041,41355,58010
+P1952,Vase 470,Home & Kitchen,Decor,Bajaj,S082,25968,37450
+P1953,Belt 153,Electronics,Accessories,Apple,S020,48409,65160
+P1954,Cheese 518,Groceries,Dairy,Tata,S066,49611,66880
+P1955,Action Set 561,Toys,Action Figures,Lego,S069,25773,33720
+P1956,Frozen Nuggets 287,Groceries,Frozen,Amul,S072,54547,68200
+P1957,Frying Pan 790,Home & Kitchen,Cookware,Bajaj,S022,10423,12450
+P1958,Curtains 829,Home & Kitchen,Decor,Prestige,S072,55930,74120
+P1959,Football 371,Sports,Team Sports,Adidas,S062,17681,20570
+P1960,Shoe Rack 921,Furniture,Storage,Nilkamal,S088,33879,47340
+P1961,Clip Folder 196,Stationery,Files,Faber-Castell,S018,17050,21760
+P1962,Monopoly 918,Toys,Board Games,Lego,S062,26556,33840
+P1963,Three Seater Sofa 790,Furniture,Sofa,Ikea,S083,20436,25510
+P1964,Gel Pen 301,Stationery,Writing,Reynolds,S028,42329,60990
+P1965,A4 Sheets 684,Stationery,Paper,Camlin,S075,4917,5910
+P1966,Football 379,Sports,Team Sports,Nivia,S010,50307,60140
+P1967,Women's Kurti 818,Apparel,Womenswear,H&M,S072,54235,65060
+P1968,Biscuits 244,Groceries,Snacks,Amul,S061,33800,45550
+P1969,Sticky Pad 320,Stationery,Paper,Reynolds,S020,32859,47570
+P1970,Double Bed 376,Furniture,Bed,Godrej,S007,42013,51280
+P1971,Chart Paper 279,Stationery,Paper,Reynolds,S075,11984,17040
+P1972,Building Blocks 399,Toys,Educational,Hot Wheels,S025,44996,55510
+P1973,Football 641,Sports,Team Sports,Nivia,S050,13159,17690
+P1974,Wallet 669,Apparel,Accessories,Levis,S007,40599,47180
+P1975,Pressure Cooker 597,Home & Kitchen,Cookware,Pigeon,S097,18369,23860
+P1976,Speaker 270,Electronics,Audio,Dell,S055,44780,60290
+P1977,Carrom Board 281,Toys,Board Games,Funskool,S094,47473,62230
+P1978,Wallet 926,Apparel,Accessories,Adidas,S017,12558,15340
+P1979,Smartphone 325,Electronics,Mobile,Lenovo,S021,37065,51840
+P1980,Drawing Book 192,Stationery,Art Supplies,Faber-Castell,S062,29927,43130
+P1981,Sandals 508,Sports,Footwear,Yonex,S061,17677,22760
+P1982,Non-Stick Pan 106,Home & Kitchen,Cookware,Pigeon,S080,35316,47350
+P1983,Cap 408,Electronics,Accessories,Dell,S093,59560,82620
+P1984,Ring Binder 868,Stationery,Files,Camlin,S083,198,240
+P1985,Sneakers 340,Sports,Footwear,Nivia,S015,57414,80920
+P1986,Sticky Pad 732,Stationery,Paper,Camlin,S031,51364,63390
+P1987,Sticky Pad 540,Stationery,Paper,Parker,S092,31785,43950
+P1988,Mattress 419,Furniture,Bed,Durian,S055,36620,43340
+P1989,Sofa Cum Bed 694,Furniture,Sofa,Ikea,S087,22183,27430
+P1990,Carrom Board 635,Toys,Board Games,Lego,S057,7791,10210
+P1991,Curtains 386,Home & Kitchen,Decor,Philips,S005,34309,44860
+P1992,Rice 300,Groceries,Staples,Britannia,S048,48990,68840
+P1993,Men's Shirt 924,Apparel,Menswear,Nike,S083,13904,20140
+P1994,Cap 251,Sports,Accessories,Cosco,S066,43037,50880
+P1995,Sticky Pad 962,Stationery,Paper,Faber-Castell,S014,44895,55280
+P1996,Lens 523,Electronics,Camera,Sony,S022,45510,57220
+P1997,Electric Kettle 996,Home & Kitchen,Appliances,Milton,S086,20433,26430
+P1998,Robot Toy 417,Toys,Action Figures,Hasbro,S098,23552,30570
+P1999,Kids Frock 608,Apparel,Kidswear,H&M,S076,25001,35170
+P2000,Formal Shoes 653,Apparel,Footwear,Puma,S010,51259,70800
