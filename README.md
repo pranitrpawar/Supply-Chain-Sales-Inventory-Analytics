@@ -76,7 +76,3 @@ The dashboard helps identify:
 - Major return reasons
 - Sales and profit trends
 
-
-├── Dashboard_Screenshots/
-├── Documentation/
-└── Presentation/
